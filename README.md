@@ -4,9 +4,9 @@
 
 ## Demo
 
----
-
 [Click here to see the demo](https://stefanoturcarelli.github.io/grid/)
+
+![Screenshot](image.png)
 
 ## Basic Properties
 
