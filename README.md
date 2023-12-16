@@ -24,6 +24,30 @@ Properties for the Children (Grid Items)
 
 - `grid-area`: Gives an item a name so that it can be referenced by a template created with the `grid-template-areas` property.
 
+# Media Queries for a 3 column responsive layout
+
+---
+
+```css
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+@media (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 425px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
+```
+
 # CSS Grid properties
 
 ---
