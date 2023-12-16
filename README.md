@@ -37,37 +37,37 @@ To create a layout using CSS Grid, define a container element (parent) and apply
 
 ## Properties for the Parent (Grid Container)
 
-- display
-- grid-template-columns
-- grid-template-rows
-- grid-template-areas
-- grid-template
-- grid-column-gap
-- grid-row-gap
-- grid-gap
-- justify-items
-- align-items
-- place-items
-- justify-content
-- align-content
-- place-content
-- grid-auto-columns
-- grid-auto-rows
-- grid-auto-flow
-- grid
+- `display`
+- `grid-template-columns`
+- `grid-template-rows`
+- `grid-template-areas`
+- `grid-template`
+- `grid-column-gap`
+- `grid-row-gap`
+- `grid-gap`
+- `justify-items`
+- `align-items`
+- `place-items`
+- `justify-content`
+- `align-content`
+- `place-content`
+- `grid-auto-columns`
+- `grid-auto-rows`
+- `grid-auto-flow`
+- `grid`
 
 ## Properties for the Children (Grid Items)
 
-- grid-column-start
-- grid-column-end
-- grid-row-start
-- grid-row-end
-- grid-column
-- grid-row
-- grid-area
-- justify-self
-- align-self
-- place-self
+- `grid-column-start`
+- `grid-column-end`
+- `grid-row-start`
+- `grid-row-end`
+- `grid-column`
+- `grid-row`
+- `grid-area`
+- `justify-self`
+- `align-self`
+- `place-self`
 
 # References
 
