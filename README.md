@@ -6,7 +6,7 @@
 
 [Click here to see the demo](https://stefanoturcarelli.github.io/grid/)
 
-![Screenshot](./assets/media/screenshots/image.png)
+![Screenshot](./assets/media/screenshots/new-image.png)
 
 # Basic Properties
 
