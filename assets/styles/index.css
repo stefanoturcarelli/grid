@@ -132,7 +132,9 @@ a {
 .grid-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(5, 1fr) 2fr;
   gap: 10px 10px;
+  grid-auto-rows: 300px;
   grid-template-areas:
     "a a"
     "b c"
