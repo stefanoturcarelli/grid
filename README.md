@@ -104,4 +104,3 @@ To create a layout using CSS Grid, define a container element (parent) and apply
 - [A Complete Guide to CSS Grid by CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/#aa-grid-properties)
 - [CSS Grid Poster](https://css-tricks.com/wp-content/uploads/2022/02/css-grid-poster.png)
 - [Learn CSS Grid in 20 Minutes by Web Dev Simplified](https://www.youtube.com/watch?v=9zBsdzdE4sM)
-- <a href="https://www.youtube.com/watch?v=9zBsdzdE4sM" target="_blank">Learn CSS Grid in 20 Minutes by Web Dev Simplified</a>
