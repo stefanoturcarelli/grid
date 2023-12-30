@@ -18,15 +18,15 @@ Properties for the Parent (Grid Container)
 - `grid-auto-columns`: Specifies the size of any auto-generated grid columns.
 - `grid-auto-rows`: Specifies the size of any auto-generated grid rows.
 - `gap`: A shorthand for row-gap and column-gap. Specifies the size of the grid lines (space between the columns/rows).
-- `grid-template-area`: Defines a grid template by referencing the names of the grid areas which are specified with the grid-area property.
+- `grid-template-area`: Defines a grid template by referencing the names of the grid areas that are specified with the grid-area property.
 
 Properties for the Children (Grid Items)
 
-- `grid-area`: Gives an item a name so that it can be referenced by a template created with the `grid-template-areas` property.
-
-# Media Queries for a 3-column responsive layout
+- `grid-area`: Gives an item a name so it can be referenced by a template created with the `grid-template-areas` property.
 
 ---
+
+# Media Queries for a 3-column responsive layout
 
 ```css
 .grid-container {
@@ -49,9 +49,9 @@ Properties for the Children (Grid Items)
 }
 ```
 
-# CSS Grid properties
-
 ---
+
+# CSS Grid properties
 
 The CSS Grid categorizes properties into those that apply to the grid container (parent) and those that apply to the grid items (children)
 
@@ -94,8 +94,8 @@ To create a layout using CSS Grid, define a container element (parent) and apply
 - `align-self`
 - `place-self`
 
-# References
-
 ---
+
+# References
 
 - [A Complete Guide to CSS Grid by CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/#aa-grid-properties)
