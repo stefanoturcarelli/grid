@@ -1,5 +1,8 @@
 # CSS Grid
 
+CSS Grid is a powerful layout system available in CSS. It's a two-dimensional system, meaning it can handle both columns and rows, unlike Flexbox which is largely a one-dimensional system.
+You work with Grid Layout by applying CSS rules both to a parent element (which becomes the Grid Container) and to that element's children (which become Grid Items).
+
 ---
 
 ## Demo
